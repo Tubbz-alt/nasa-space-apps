@@ -81,7 +81,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Well-Clear Violation Volumes for Concept of Integration of Unmanned Arial Vehicles in the National Air Space https://software.nasa.gov/software/LAR-18464-1
 *	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
 
-###Clouds or Contrails
+### Clouds or Contrails
 *	Contrails education:  http://science-edu.larc.nasa.gov/contrail-edu/
 *	USGS, 3D Maps:  http://nationalmap.gov/
 *	Evolution of a contrail:  http://earthobservatory.nasa.gov/IOTD/view.php?id=78154&src=eoa-iotd
