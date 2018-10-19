@@ -4,9 +4,9 @@
 Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  These resources are also listed and discoverable through NASA's catalog of publicly-available datasets, APIs, and visualizations available at https://api.nasa.gov/ and https://data.nasa.gov/.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch. 
 
 ***
-##Technology
+## Technology
 
-###Jet Set Mars
+### Jet Set Mars
 *	Mars Fact Sheet: http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html  
 *	Source for producing propulsion locally on Mars: http://www.marssociety.org/home/about/mars-direct 
 *	More info on Mars: http://quest.nasa.gov/aero/planetary/mars.html
@@ -17,7 +17,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	A web interface is provided to the database. If you want to download the full version database then please use the web link to request it. Do this well before the Space Apps Event!
 
 
-###Print My Rocket
+### Print My Rocket
 *	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
 *	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=133
 *	Preparing the Vehicle Assembly Building for the Future video https://www.youtube.com/watch?v=CYppcUc36mg
@@ -36,7 +36,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	NASA's 3D-Printed Habitat Challenge References https://americamakes.us/challenge/references/ 
 
 
-###Backfill My Model
+### Backfill My Model
 *	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
 *	Backfill My Model Google Hangout: https://www.youtube.com/watch?v=pBZl7uIiMEA&list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&index=2
 *	Friday KSC Google Hangout (Backfill My Model section): https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=545
@@ -48,7 +48,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	"3D Printing" on NASA Technical Reports Server (NTRS): http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing 
 
 
-###Origami Space Recycled
+### Origami Space Recycled
 *	[Integration of FOB System to Crew Transfer Bag](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1150&context=star)
 *	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
 *	3D Printing: Technology Drives Exploration http://www.nasa.gov/topics/technology/manufacturing-materials-3d/index.html
@@ -65,9 +65,9 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	Cubesats Requirements Document: http://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf
 
 ***
-##AERONAUTICS
+## AERONAUTICS
 
-###Don't Crash My Drone
+### Don't Crash My Drone
 *	USGS, 3D Maps: http://nationalmap.gov/
 *	Aviation Weather data:  http://www.aviationweather.gov
 *	National Weather service:  http://www.weather.gov
@@ -94,7 +94,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 
-###Clear for Take Off
+### Clear for Take Off
 *	Aviation Digital Data Service (ADDS): http://www.aviationweather.gov/adds/ 
 *	Virtual Skies: http://virtualskies.arc.nasa.gov/weather/index.html 
 *	Dynamic Weather Routes Tool: http://technology.nasa.gov/patent/TOP2-168
@@ -118,7 +118,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Category I/II/III ILS information https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afs/afs400/afs410/status_lists/ 
 
 
-###Low Boom
+### Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
 *	NASA Armstrong Fact Sheet: Sonic Booms	https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-016-DFRC.html
 *	http://www.nasa.gov/aero/sonic_boom_takes_shape.html	
@@ -128,9 +128,9 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	CISBoomDA: Interactive Display Provides Pilots with Real-Time Sonic Boom Mapping https://www.youtube.com/watch?v=OgfcbzxlS_Q
 
 ***
-##SPACE STATION
+## SPACE STATION
 
-###Launch: A Global Experience
+### Launch: A Global Experience
 *	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
 *	What It’s Like to Watch a Rocket Launch In-Person Google Hangout: https://www.youtube.com/watch?v=Y_eXP7X__M4&index=3&list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D
 *	Friday KSC Google Hangout (Launch: A Global Experience section): https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=1674
@@ -207,7 +207,7 @@ Weather
 *	Lightning and the Space Program: http://www.nasa.gov/centers/kennedy/pdf/167417main_Lightning08.pdf
 
 
-###Rock-IT Space Fashion and Design
+### Rock-IT Space Fashion and Design
 *	Advanced electronics are a problem in space due to the density of the chips. The more circuitry in smaller electronic components, the greater the susceptibility to cosmic radiation. NASA is looking for “red hard” processers that aren’t affected by radiation to bring space-usable tech up to par with cool Earth tech. 
 	*	Newsweek article "Introducing Astronaut Clothing of the Future": http://www.newsweek.com/2015/07/17/introducing-astronaut-clothing-future-349955.html
 
@@ -230,7 +230,7 @@ Weather
 *	Synthetic Assessment of Global Distribution of Vulnerability to Climate: https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
 
 
-###Astrocize
+### Astrocize
 *	Burning Astronaut Pee - Smarter Every Day 149: https://www.youtube.com/watch?v=05oOst9kZXQ&t=2m
 *	Advanced Resistive Exercise Device (ARED): http://www.nasa.gov/mission_pages/station/research/experiments/1001.html
 *	Combined Operational Load Bearing External Resistance Treadmill (COLBERT): http://www.nasa.gov/mission_pages/station/research/experiments/765.html
@@ -241,7 +241,7 @@ Weather
 *	Advanced Resistive Exercise Device: http://www.nasa.gov/mission_pages/station/research/experiments/1001.html
 
 
-###Virtual Auroras
+### Virtual Auroras
 *	Datasets:
 	*	http://eol.jsc.nasa.gov/
 	*	http://eol.jsc.nasa.gov/SearchPhotos/ShowQueryResults-CoolIris.pl?results=Latest_ISS_Imagery
@@ -256,9 +256,9 @@ Weather
 	*	http://www.nasa.gov/mission_pages/sunearth/news/gallery/aurora-index.html#.VxaoSfkrJD8 
 
 ***
-##SOLAR SYSTEM
+## SOLAR SYSTEM
 
-###Book it to the Moon
+### Book it to the Moon
 *	Interactive Guide to the Moon http://lunarexploration.esa.int
 *	Apollo Image Atlas: https://data.nasa.gov/external-dataset?datasetId=bdjz-sjmr 
 *	NASA’s Gallery: https://www.nasa.gov/multimedia/imagegallery/index.html
@@ -267,7 +267,7 @@ Weather
 *	Many sites have Flickr, Tumblr, Instagram, Pinterest – a gallery could be created by the app developers and then added to by users.
 
 
-###Near Earth Object Machine Learning
+### Near Earth Object Machine Learning
 *	A list of close approaches to the earth: http://www.minorplanetcenter.net/iau/lists/CloseApp.html
 *	The JPL Small-Body Database: http://ssd.jpl.nasa.gov/ sbdb.cgi
 	*	orbital elements 
@@ -297,7 +297,7 @@ Weather
 	*	Dates Of Last Observation Of Unusual Minor Planets: http://www.minorplanetcenter.net/iau/lists/LastUnusual.html
 
 
-###Asteroid Mining
+### Asteroid Mining
 *	See links above in Near Earth Objects Machine Learning
 *	*	OSIRIS-REX mission: 
 	*	http://www.asteroidmission.org/mission/#explore-instruments
@@ -311,7 +311,7 @@ Weather
 *	Resourece Prospector Mission: https://www.nasa.gov/resource-prospector/ 
 
 
-###Vesta Revealed
+### Vesta Revealed
 *	Vesta Trek web portal: http://vestatrek.jpl.nasa.gov
 *	Chuck Clark’s website with examples of many applications and references: http://rightbasicbuilding.com/
 *	E-Book: Clark and Clark, Constant Scale Natural Boundary Mapping to Reveal Global and Cosmic Processes, 2013: https://goo.gl/sqp0Bc
@@ -321,7 +321,7 @@ Weather
 *       Tutorial about converting digital elevation models: http://webgis.wr.usgs.gov/pigwad/tutorials/arcgis10.Basic_converting_data.pdf
 
 
-###Open World Generation Using NASA Mars and Vesta Data
+### Open World Generation Using NASA Mars and Vesta Data
 *	Dataset Products are available online via WMTS-based APIs on [api.nasa.gov](https://api.nasa.gov/api.html#trek)
 *	Leverage existing Minecraft customizations such as [Galacticraft](https://github.com/micdoodle8/Galacticraft) or vanilla [Minecraft](https://minecraft.net/download) and implement as a plugin or mod.  
 *	View Apps using Mars and Vesta Data such as [http://marstrek.jpl.nasa.gov/](http://marstrek.jpl.nasa.gov/) or [http://vestatrek.jpl.nasa.gov/](http://vestatrek.jpl.nasa.gov/)
@@ -332,7 +332,7 @@ Weather
 
 
 ***
-##EARTH
+## EARTH
 
 If you’d like to use NASA Earth data with Google Maps, you’ll want to use the Global Imagery Browse Services (GIBS):
 https://wiki.earthdata.nasa.gov/display/GIBS/
@@ -346,7 +346,7 @@ https://earthdata.nasa.gov/earth-observation-data/tools
 If you’re trying to insert data values into a database, we suggest starting with Level 3 data products as they are usually gridded and available globally.   See here for a description of data processing levels:
 http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-for-eosdis-data-products/
 
-###Sea Ice App
+### Sea Ice App
 *	Sea Ice API  https://www.asf.alaska.edu/sea-ice/
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 *	GINA Puffin Feeder: http://feeder.gina.alaska.edu/
@@ -358,7 +358,7 @@ http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-
 *	Sentinal data: https://sentinel.esa.int/web/sentinel/sentinel-data-access
 
 
-###Geotagging Space and Aviation
+### Geotagging Space and Aviation
 *	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
 *	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=1293
 *	NASA History: http://history.nasa.gov/ and http://www.nasa.gov/topics/history/index.html 
@@ -384,7 +384,7 @@ http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-
 	*	Create Ingress Missions: https://support.ingress.com/hc/en-us/articles/206475078-Create-Ingress-Missions-the-basics
 *	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
 
-###eMobile Pastoralism
+### eMobile Pastoralism
 *	Datasets : Earth observation data
 	* NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 	* EARTHDATA: https://earthdata.nasa.gov/
@@ -392,7 +392,7 @@ http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-
 *	https://code.nasa.gov/#/
 *	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
 
-###Aircheck
+### Aircheck
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 *	What Worldview is: https://earthdata.nasa.gov/worldview
 *	What EOSDIS is: https://earthdata.nasa.gov/about
@@ -423,10 +423,7 @@ https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-dis
 *	Google Earth Gallery
 *	https://code.nasa.gov/#/
 
-***
-##JOURNEY TO MARS
-
-###Space Recreation
+### Space Recreation
 *	NASA Orion: https://www.nasa.gov/exploration/systems/orion/ & https://www.nasa.gov/pdf/166914main_FS_Orion508c.pdf 
 *	About the Space Station: http://www.nasa.gov/mission_pages/station/main/onthestation/facts_and_figures.html 
 *	NASA’s Train like an astronaut program: http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/
@@ -444,13 +441,13 @@ https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-dis
 *	Google Cardboard: https://developers.google.com/cardboard/
 
 
-###SimSpace
+### SimSpace
 *	NASA Report: A Kalman Approach to Lunar Surface Navigation Using Radiometric and Inertial Measurements: http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090027870.pdf
 *	Wikipedia aritcle about Lunar oribt perturbation: https://en.wikipedia.org/wiki/Lunar_orbit#Perturbation_effects
 *	Wikipedia article about the Herschel Space Observatory: https://en.wikipedia.org/wiki/Herschel_Space_Observatory
 
 
-###Space Route 66
+### Space Route 66
 *	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
 *	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=966
 *	Center Planning & Development YouTube playlist: https://www.youtube.com/watch?v=FTytXb0R0Yk&index=10&list=PLStC43yAV6zQRcOG0XlrYYEBuvhESitIq
